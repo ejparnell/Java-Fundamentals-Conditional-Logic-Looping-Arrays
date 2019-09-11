@@ -10,11 +10,10 @@ public class Main {
     	equations[2] = create(225.0d, 17.0d, 's');
     	equations[3] = create(11.0d, 3.0d, 'm');
 
-    	for (int i = 0; i < opCodes.length; i++) {
-		}
-    	for (double theResult : results) {
+    	for (MathEquation equation : equations) {
+    		equation.execute();
     		System.out.print("result = ");
-			System.out.println(theResult);
+			System.out.println(equation.result);
 		}
     }
 
@@ -23,5 +22,7 @@ public class Main {
     	equation.leftVal = leftVal;
     	equation.rightVal = rightVal;
     	equation.opCode = opCode;
+
+    	return equation;
 	}
 }
