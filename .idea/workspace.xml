@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba2aea1-9bb8-4f35-a8c6-6c95dd851627" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calcEngine/com/pluralsight/calcEngine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calcEngine/com/pluralsight/calcEngine/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pluralsight/calcEngine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/calcEngine/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
